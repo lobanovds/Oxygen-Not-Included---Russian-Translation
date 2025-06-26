@@ -69097,7 +69097,7 @@ msgstr "В этом сохранении включен контент от DLC 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.ALREADY_SAVED
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.ALREADY_SAVED"
 msgid "<i><color=#CAC8C8>Already Saved</color></i>"
-msgstr "<i><color=#CAC8C8>Уже Сохранено</color></i>"
+msgstr "<i><color=#CAC8C8>Уже сохранено</color></i>"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.COLONY_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.COLONY_SUMMARY"
